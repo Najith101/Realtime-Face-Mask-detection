@@ -33,7 +33,7 @@ Step 1: Use the ipynb file to train and save the model.
 
 Step 2: Use the py file to get and model that was created and capture the face using the caffe model.
 
-Step 3: The py file will run the camera in the desktop(if its run on a computer) and will show the result which can then be saved
+Step 3: The py file will run the camera in the desktop(if its run on a computer) and will show the result which can then be saved.
 
 
 ## Project status
